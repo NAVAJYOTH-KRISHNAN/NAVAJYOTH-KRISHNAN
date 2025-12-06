@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NAVAJYOTH-KRISHNAN
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Everything I can
-- 💞️ I’m looking to collaborate on NO-ONE now
-- 📫 How to reach me - On Email otherwise what:navajyothkrish@gmail.com
+- 📫 How to reach me - On Email:navajyothkrish@gmail.com
 - ⚡ Fun fact: No facts are fun . Geeks make it looka like fun.
 - My Desktop Personal Site : https://navajyoth-krishnan-d.pages.dev/ 
 
